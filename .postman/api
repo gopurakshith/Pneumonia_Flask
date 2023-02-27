@@ -6,7 +6,7 @@ id = 9d1fddc2-d9a3-4752-99c7-6517d7532d1a
 [relations.collections]
 rootDirectory = postman/collections
 
-[relations.collections.metaData]
+[relations.collections.metaData] 
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
